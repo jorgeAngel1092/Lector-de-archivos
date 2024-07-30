@@ -1,0 +1,2 @@
+#Requeriminetos
+#-PYTHON 3.6 en adelante
